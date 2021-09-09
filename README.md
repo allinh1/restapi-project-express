@@ -1,3 +1,3 @@
 # restapi-project-express
 
-![GitHub Logo](/images/swagger ss.png)
+![Project Screenshot](/images/swagger ss.png)
